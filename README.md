@@ -68,7 +68,7 @@
 
 * นายภูวทิตต์ สัมมาวิวัฒน์ - 61070173 - [phwt](https://github.com/phwt)
 * นายวีรพงศ์ ทันจันทึก - 61070213 - [veerapong76](https://github.com/veerapong76)
-* นายณภัทร พรบุญเรือง - 61070044 - [61070044](https://github.com/61070044)
+* นายณภัทร พรบุญเรือง - 61070044 - [tian-np](https://github.com/tian-np)
 * นายสหัสวรรษ หิรัญเพชร - 61070239 - [maizerocom](https://github.com/maizerocom)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
